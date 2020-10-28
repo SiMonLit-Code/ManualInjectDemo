@@ -6,8 +6,6 @@ package com.test.demo.bean;
  * @create : 2020-10-27 10:53:00
  * @description :
  */
-public class BasicTest  {
-
-
+public class BasicTest extends BasicHello {
 
 }

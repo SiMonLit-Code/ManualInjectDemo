@@ -14,7 +14,7 @@ import javax.annotation.Resource;
  * @create : 2020-10-27 15:39:00
  * @description : 手动注入bean
  */
-@Component
+//@Component
 public class BeanConfig {
     @Resource
     SayHello sayHello;
